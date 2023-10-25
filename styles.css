@@ -1,0 +1,34 @@
+
+#results {
+    display:none;
+  }
+
+
+* {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.bg-dark {
+    background-color: aliceblue;
+    display: flex;
+    justify-content: center;
+    }
+
+.container {
+    background-color: azure;
+    display: flex;
+    justify-content: center;
+    width: 100%;
+}
+
+span {
+    font-size: 30px;
+    display: flex;
+    justify-content: center;
+}
+
+
+input {
+    display: flex;
+    justify-content: center;
+    font-size: 40px;
+}
